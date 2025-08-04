@@ -1,15 +1,5 @@
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>The Best For You | Video Editing Portfolio</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background: #121212;
-      color: #f1f1f1;
-    }
+    
     header <!{
       background: #222;
       padding: 60px 20px;
